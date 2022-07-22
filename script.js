@@ -5,7 +5,7 @@ const listItems2 = document.getElementById('list-items-2');
 const listItems3 = document.getElementById('list-items-3');
 const form = document.getElementById('form');
 const errorMsg = document.querySelector('small');
-const email = document.getElementById('email');
+const email = document.getElementById('emal');
 
 function myFunction(x) {
   if (x.matches) { // If media query matches
